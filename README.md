@@ -13,7 +13,7 @@ Algunas consideraciones que tome de acuerdo a lo que decia el texto del ejercici
 
 Ejercicio 2)
 
-La automatizacion de los fierentes casos de prueba para la api se encuentran dentro de la carpeta collections. En la carpeta environment se encuentran tambien las variables usadas para alguno de los casos.
+La automatizacion de los diferentes casos de prueba para la api se encuentran dentro de la carpeta collections. En la carpeta environment se encuentran tambien las variables usadas para alguno de los casos.
 
 
 Ejercicio 3)
